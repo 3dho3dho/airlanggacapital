@@ -16,7 +16,7 @@ asset_type = st.sidebar.selectbox("Select Asset Type:", ["Bonds", "Stocks", "Bit
 
 if asset_type == "Bonds":
     # Replace with your FRED API key
-    API_KEY = "d6ec749e444b3522c809f3b045029ba7"
+    API_KEY = "eac37e38a5bb44ebd918d87571428b9a"
     fred = Fred(api_key=API_KEY)
 
     # Define U.S. Treasury Yield Curve Series IDs
