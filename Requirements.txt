@@ -1,4 +1,0 @@
-Matplotlib ≤ 3.7.1
-Numpy ≤ 1.24.4
-Pandas ≤ 2.0.2
-Streamlit ≤ 1.23.1
